@@ -4,4 +4,4 @@ This repository houses the code base and documentation for the Regents Academy c
 
 ## Acknowledgments
 
-Thanks to Richard Anderson and the Google coummunity he moderates at [Curriculum Mapping with G Suite](https://currents.google.com/u/1/communities/116182501278550215014) (originally a Google+ forum, but now housed in "Currents") for helping us make this systemn work.
+Thanks to Richard Anderson and the Google coummunity he moderates at [Curriculum Mapping with G Suite](https://currents.google.com/u/1/communities/116182501278550215014) (originally a Google+ forum, but now housed in "Currents") for helping us make this system work.
